@@ -19,7 +19,7 @@ const SearchBar = () => {
         w-full flex flex-col items-center
         mt-10
         gap-4 sm:gap-6
-        px-4 sm:px-6
+        px-8 
       "
     >
       {/* Search Input */}
@@ -66,7 +66,7 @@ const SearchBar = () => {
         <button
           onClick={() => handleSearch()}
           className="
-            px-4 sm:px-6 py-2 
+            px-4 sm:px-6 py-2 my-4
             bg-gray-100 rounded 
             text-xs sm:text-sm text-gray-700 
             border border-gray-200
