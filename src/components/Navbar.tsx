@@ -1,5 +1,3 @@
-import React from "react";
-
 const Navbar = () => {
   const links = {
     Gmail: "https://mail.google.com/",

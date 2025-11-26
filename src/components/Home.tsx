@@ -1,4 +1,3 @@
-import React from 'react'
 import Navbar from './Navbar'
 import SearchBar from './SearchBar'
 import GoogleLogo from '../assets/google-logo.png'
